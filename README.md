@@ -9,5 +9,5 @@ Just a sample reference for creating li to two col with equal height.
 
 ## Demo pages
 
-[Block list](//aungcvt.github.io/two-col-list/normal-list.html)
-[Two col list](//aungcvt.github.io/two-col-list/two-col-list.html)
+- [Block list](//aungcvt.github.io/two-col-list/normal-list.html)
+- [Two col list](//aungcvt.github.io/two-col-list/two-col-list.html)
